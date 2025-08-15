@@ -61,6 +61,11 @@ streamlit run main.py
 
 ## 📋 Example Output
 
+<img width="1024" height="1536" alt="ai_resume_critiquer_Screenshot" src="https://github.com/user-attachments/assets/1a559f23-608f-406b-a74e-51fbc65da850" />
+
+---
+## 📋 Example Output
+
 **Input**:
 
 * Resume: PDF containing work history, skills, and education.
@@ -95,6 +100,4 @@ Overall, your resume has strong foundational content, but highlighting measurabl
 ```
 
 ---
-
-<img width="1024" height="1536" alt="ai_resume_critiquer_Screenshot" src="https://github.com/user-attachments/assets/7f372ae1-74df-45bf-9d45-a0eb68b4c64d" />
 
