@@ -25,8 +25,8 @@ The **AI Resume Critiquer** is a Streamlit-based web application that uses OpenA
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/emmamannan/Resume-Critiquer.git
-cd Resume-Critiquer
+git clone https://github.com/emmamannan/AI-Resume-Critiquer.git
+cd AI-Resume-Critiquer
 pip install -r requirements.txt
 ```
 
@@ -52,7 +52,7 @@ streamlit run main.py
 
 ## 🌐 Project Link
 
-[**View on GitHub**](https://github.com/emmamannan/Resume-Critiquer)
+[**View on GitHub**](https://github.com/emmamannan/AI-Resume-Critiquer)
 
 ---
 
