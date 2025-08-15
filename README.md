@@ -64,7 +64,7 @@ streamlit run main.py
 <img width="1024" height="1536" alt="ai_resume_critiquer_Screenshot" src="https://github.com/user-attachments/assets/1a559f23-608f-406b-a74e-51fbc65da850" />
 
 ---
-## 📋 Example Output
+## 📋 Example Text Output
 
 **Input**:
 
