@@ -1,6 +1,3 @@
-Here’s your **updated README** with an **Example Output** section added so visitors see exactly what kind of feedback they can expect.
-
----
 
 # 📄 AI Resume Critiquer
 
