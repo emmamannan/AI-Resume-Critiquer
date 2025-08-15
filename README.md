@@ -44,7 +44,7 @@ OPENAI_API_KEY=your_openai_api_key_here
 ## 🚀 Run the App
 
 ```bash
-streamlit run app.py
+streamlit run main.py
 ```
 
 ## 🧠 Powered By
@@ -95,3 +95,6 @@ Overall, your resume has strong foundational content, but highlighting measurabl
 ```
 
 ---
+
+<img width="1024" height="1536" alt="ai_resume_critiquer_Screenshot" src="https://github.com/user-attachments/assets/7f372ae1-74df-45bf-9d45-a0eb68b4c64d" />
+
